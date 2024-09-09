@@ -803,7 +803,7 @@ def contact_main_form():
     form = Tk()
 
     # region config
-    form.title("SepidehS3")
+    form.title("SepidehS3.")
 
     form_width = 800
     form_height = 600
