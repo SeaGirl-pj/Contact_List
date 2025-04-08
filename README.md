@@ -50,6 +50,5 @@ A simple and cozy contact list manager where you can **add**, **remove**, **edit
 
 ## 📷 Screenshots
 
-![1](https://github.com/user-attachments/assets/0f638d15-bccd-447d-881e-6ee40669ff41)
-![2](https://github.com/user-attachments/assets/eb6d60fc-e3a2-4046-aba7-edcf8603c6b5)
+![1](https://github.com/user-attachments/assets/0f638d15-bccd-447d-881e-6ee40669ff41) ![2](https://github.com/user-attachments/assets/eb6d60fc-e3a2-4046-aba7-edcf8603c6b5)
 
