@@ -34,9 +34,9 @@ A simple and cozy contact list manager where you can **add**, **remove**, **edit
 
 ## 🛠️ Tech Stack
 
-- Python (or your preferred language)  
+- Python 
 - TXT file for database (no SQL or external database required)  
-
+- Interface: GUI (Tkinter)
 ---
 
 ## 📌 Notes
