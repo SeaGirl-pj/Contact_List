@@ -1,8 +1,8 @@
-Name: hossein - Family: estiri - Gender: male - Phone: 09125487756 - Description: dady
-Name: mohsen - Family: fatemian - Gender: male - Phone: 45125425365 - Description: __
-Name: setare - Family: estiri - Gender: female - Phone: 45214524562 - Description: __
-Name: parnia - Family: estiri - Gender: female - Phone: 45215478542 - Description: sister
 Name: sepideh - Family: estiri - Gender: female - Phone: 09124569853 - Description: meeeee
-Name: leila - Family: fatemian - Gender: female - Phone: 09125784563 - Description: __
-Name: samy - Family: estiri - Gender: other - Phone: 11111111111 - Description: the dog :)
-Name: melina - Family: rashidi - Gender: female - Phone: 09125468756 - Description: neighber
+Name: hossein - Family: bahrami - Gender: male - Phone: 09125487756 - Description: dady
+Name: melina - Family: rashidi - Gender: female - Phone: 09125468756 - Description: neighbour
+Name: setare - Family: moradi - Gender: female - Phone: 45214524562 - Description: __
+Name: parnia - Family: godarzi - Gender: female - Phone: 45215478542 - Description: sister
+Name: samy - Family: dogfather - Gender: other - Phone: 11111111111 - Description: the dog :)
+Name: leila - Family: abbasi - Gender: female - Phone: 09125784563 - Description: __
+Name: mohsen - Family: modares - Gender: male - Phone: 45125425365 - Description: __
