@@ -100,8 +100,9 @@ def contact_data_entry_form():
     top_pad = (form.winfo_screenheight()//2) - (form_height//2)
     form.geometry(f"{form_width}x{form_height}+{left_pad}+{top_pad}")
     form.configure(bg="white")
-    # form.resizable(width=False, height=False)
-    form.overrideredirect(True)
+    app_icon = PhotoImage(file=r"ui/images/icon_main.png")
+    form.wm_iconphoto(False, app_icon)
+    form.overrideredirect(False)
     # endregion
 
     # region frame
@@ -803,7 +804,7 @@ def contact_main_form():
     form = Tk()
 
     # region config
-    form.title("SepidehS3.")
+    form.title("SepidehS3")
 
     form_width = 800
     form_height = 600
@@ -811,8 +812,6 @@ def contact_main_form():
     top_pad = (form.winfo_screenheight()//2) - (form_height//2)
     form.geometry(f"{form_width}x{form_height}+{left_pad}+{top_pad}")
     form.configure(bg="white")
-    # form.resizable(width=False, height=False)
-    # form.overrideredirect(True)
     app_icon = PhotoImage(file=r"ui/images/icon_main.png")
     form.wm_iconphoto(False, app_icon)
     form.overrideredirect(False)
